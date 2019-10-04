@@ -1,4 +1,5 @@
 package com.example.labparticipationexercise4;
 
-public class Trapezoid {
+public class Trapezoid extends Shape{
+    
 }
